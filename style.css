@@ -1,6 +1,14 @@
+title {
+  color: purple;
+  font-size: 75px;
+  text-align: center;
+  text-shadow: -2px 2px black;
+}
+
 h1 {
     color: purple;
     font-size: 50px;
+    text-align: center;
 }
 
 h2 {
