@@ -1,8 +1,14 @@
 h1 {
-    color: red;
-    font-size: 24px;
+    color: purple;
+    font-size: 50px;
+}
+
+h3 {
+    color: orange;
+    font-size: 16px;
 }
 
 p {
-    font-size: 14px;
+    color: teal;
+    font-size: 6px;
 }
