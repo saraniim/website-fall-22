@@ -20,12 +20,12 @@ h3 {
 }
 
 h4 {
-    font-family: 'Verdana';
+    font-family: 'Verdana', sans-serif;
     color: purple;
     font-size: 30;
 }
 p {
-    font-family: 'Verdana';
+    font-family: 'Verdana', sans-serif;
     color: black;
     font-size: 20px;
 }
